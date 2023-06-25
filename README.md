@@ -13,7 +13,7 @@ This repository contains a collection of machine learning projects and learning 
 
 ## End-to-End Machine Learning Pipeline
 
-- Tutorial Source: [Krish Naik's YouTube Tutorial]([https://www.youtube.com/playlist?list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna](https://youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG))
+- Tutorial Source: [Krish Naik's YouTube Tutorial](https://youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 - Description: This project follows Krish Naik's YouTube tutorial on building an end-to-end machine learning pipeline. It covers the complete process, including data preprocessing, feature engineering, model training, and model evaluation. The project demonstrates a practical approach to solving a machine learning problem.
 - Code: The code is organized into different stages of the pipeline, such as data loading, preprocessing, feature engineering, model training, and evaluation. Each stage is implemented in separate files or Jupyter notebooks for better organization.
 - Instructions: Refer to the tutorial videos for detailed instructions on setting up the project environment, running the code, and understanding each step of the pipeline.
